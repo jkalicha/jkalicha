@@ -10,10 +10,10 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-**Lecturer & Advanced Systems Engineering Student at ORT University Uruguay** | Passionate about Software Development
+**Lecturer & Advanced Software Engineering Student at ORT University Uruguay** | Passionate about Software Development
 
 ## About :sunglasses:
-I am currently an advanced Systems Engineering student at ORT University Uruguay and a lecturer in Data Structures and Algorithms. Passionate about software development, I’m eager to grow as a Junior Developer and continuously seek opportunities to improve my skills and knowledge.
+I am currently an advanced Software Engineering student at ORT University Uruguay and a lecturer in Data Structures and Algorithms. Passionate about software development, I’m eager to grow as a Junior Developer and continuously seek opportunities to improve my skills and knowledge.
 
 ## Technologies :fire:
 - Web application development using **.NET** and **Angular** frameworks  

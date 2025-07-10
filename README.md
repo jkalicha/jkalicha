@@ -16,7 +16,8 @@
 I am currently an advanced Software Engineering student at ORT University Uruguay and a lecturer in Data Structures and Algorithms. Passionate about software development, I’m eager to grow as a Junior Developer and continuously seek opportunities to improve my skills and knowledge.
 
 ## Technologies :fire:
-- Web application development using **.NET** and **Angular** frameworks  
+- Web application development using **.NET** and **Angular** frameworks
+- Containerization and deployment with **Docker**
 - Programming in **C**, **C++**, **C#**, **Java**, **HTML**, **CSS**, **TypeScript**, and **SQL**  
 - Version control with **Git**
 
@@ -33,14 +34,11 @@ I am currently an advanced Software Engineering student at ORT University Urugua
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>
+
 
 ## Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-jkalicha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joaquin-kalichman-022906320)](www.linkedin.com/in/joaquin-kalichman-022906320)
 [![Gmail Badge](https://img.shields.io/badge/-jkalicha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jkalicha@gmail.com)](mailto:jkalicha@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@kaalich_-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/kaalich_/)](https://www.instagram.com/kaalich_/)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jkalicha/count.svg" />
-</p>
 

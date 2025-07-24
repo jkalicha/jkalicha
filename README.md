@@ -21,6 +21,17 @@ I am currently an advanced Software Engineering student at ORT University Urugua
 - Programming in **C**, **C++**, **C#**, **Java**, **HTML**, **CSS**, **TypeScript**, and **SQL**  
 - Version control with **Git**
 
+## Projects in Progress
+Currently building a fullstack personal web application (POV-WebApp) to manage and share event photos.
+This project is helping me grow as a developer while I practice and learn:
+
+- Backend with Node.js + Express + TypeScript
+- Frontend with Angular
+- Database using PostgreSQL and TypeORM
+- RESTful API design and implementation
+- Authentication with JWT
+- Testing using Jest
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /></code>
